@@ -11,13 +11,13 @@ Curiosa, detalhista e animada para garantir a qualidade dos sistemas. 🚀
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Exercicio_javaScript&theme=dark)](https://github.com/taistj3/Exercicio_javaScript.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-acessibilidade&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Primeiro-Teste-automatizado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-API-ServeRest-Postman&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-API-automatizado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-E2E-automatizado&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-performance&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Exercicio-BDD-Gherkin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-acessibilidade&theme=dark)](https://github.com/taistj3/Teste-de-acessibilidade.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Primeiro-Teste-automatizado&theme=dark)](https://github.com/taistj3/Primeiro-Teste-automatizado.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-API-ServeRest-Postman&theme=dark)](https://github.com/taistj3/Teste-API-ServeRest-Postman.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-API-automatizado&theme=dark)](https://github.com/taistj3/Teste-de-API-automatizado.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-E2E-automatizado&theme=dark)](https://github.com/taistj3/Teste-E2E-automatizado.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-performance&theme=dark)](https://github.com/taistj3/Teste-de-performance.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Exercicio-BDD-Gherkin&theme=dark)](https://github.com/taistj3/Exercicio-BDD-Gherkin.git)
 
 ### Linguagens utilizadas
 
