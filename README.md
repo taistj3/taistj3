@@ -18,6 +18,7 @@ Curiosa, detalhista e animada para garantir a qualidade dos sistemas. 🚀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-E2E-automatizado&theme=dark)](https://github.com/taistj3/Teste-E2E-automatizado.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-performance&theme=dark)](https://github.com/taistj3/Teste-de-performance.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Exercicio-BDD-Gherkin&theme=dark)](https://github.com/taistj3/Exercicio-BDD-Gherkin.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=PageObjects_AppActions_no_Cypress&theme=dark)](https://github.com/taistj3/PageObjects_AppActions_no_Cypress.git)
 
 ### Linguagens utilizadas
 
