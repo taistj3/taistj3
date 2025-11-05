@@ -10,6 +10,7 @@ Curiosa, detalhista e animada para garantir a qualidade dos sistemas. 🚀
 
 ### Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=tcc-ebac-qe&theme=dark)](https://github.com/taistj3/tcc-ebac-qe.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Exercicio_javaScript&theme=dark)](https://github.com/taistj3/Exercicio_javaScript.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-de-acessibilidade&theme=dark)](https://github.com/taistj3/Teste-de-acessibilidade.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Primeiro-Teste-automatizado&theme=dark)](https://github.com/taistj3/Primeiro-Teste-automatizado.git)
