@@ -1,12 +1,42 @@
-### Olá 👋
+# 👋 Olá, eu sou a Hellen Taís
 
-#### Sobre a Hellen Silva
-Oi! Sou a Hellen Taís, atualmente em transição de carreira para a área de Qualidade de Software (QA). Desde 2024 estudando testes manuais, automação, metodologias ágeis e ferramentas da área.
-Curiosa, detalhista e animada para garantir a qualidade dos sistemas. 🚀
+Sou **Analista de Qualidade de Software (QA) em transição de carreira**, estudando e praticando desde 2024.  
+Tenho foco em **garantir a qualidade dos sistemas**, prevenir falhas e colaborar com times de desenvolvimento de forma clara e objetiva.
 
-### Detalhes
+Sou curiosa, detalhista e gosto de entender o *porquê* das coisas — não só testar, mas ajudar a melhorar o produto como um todo 🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taistj3&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🧪 Sobre mim
+
+- 📍 Campo Grande – MS  
+- 🎓 Formação em Qualidade de Software (EBAC)  
+- 🔄 Transição de carreira para QA  
+- 🤝 Experiência prévia com atendimento ao público, comunicação e trabalho com metas  
+- 🧠 Perfil analítico, organizado e colaborativo  
+
+---
+
+## 🛠️ Conhecimentos & Ferramentas
+
+**Testes**
+- Testes manuais (funcional, regressão, integração, exploratório)
+- Escrita de cenários em **Gherkin**
+- Casos de teste e documentação de evidências
+
+**Automação & API**
+- Cypress (estruturação com Page Objects)
+- Postman (testes de API)
+- Noções de Appium
+- Testes de API REST
+
+**Outros conhecimentos**
+- Metodologias Ágeis (Scrum e Kanban)
+- Git & GitHub
+- Noções de SQL
+- Visual Studio Code
+
+---
 
 ### Projetos
 
@@ -22,9 +52,6 @@ Curiosa, detalhista e animada para garantir a qualidade dos sistemas. 🚀
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=PageObjects_AppActions_no_Cypress&theme=dark)](https://github.com/taistj3/PageObjects_AppActions_no_Cypress.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-mobile&theme=dark)](https://github.com/taistj3/Teste-mobile.git)
 
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taistj3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
