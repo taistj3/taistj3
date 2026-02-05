@@ -38,17 +38,15 @@ Sou curiosa, detalhista e gosto de entender o *porquê* das coisas — não só 
 
 ---
 
-### Projetos
-
 ## 📂 Projetos em destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=tcc-ebac-qe)](https://github.com/taistj3/tcc-ebac-qe)
+[![TCC EBAC - QA](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=tcc-ebac-qe&cache_seconds=86400)](https://github.com/taistj3/tcc-ebac-qe)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-API-ServeRest-Postman)](https://github.com/taistj3/Teste-API-ServeRest-Postman)
+[![API Postman](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-API-ServeRest-Postman&cache_seconds=86400)](https://github.com/taistj3/Teste-API-ServeRest-Postman)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-E2E-automatizado)](https://github.com/taistj3/Teste-E2E-automatizado)
+[![E2E](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-E2E-automatizado&cache_seconds=86400)](https://github.com/taistj3/Teste-E2E-automatizado)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-mobile)](https://github.com/taistj3/Teste-mobile)
+[![Mobile](https://github-readme-stats.vercel.app/api/pin/?username=taistj3&repo=Teste-mobile&cache_seconds=86400)](https://github.com/taistj3/Teste-mobile)
 
 
 ### Contatos
